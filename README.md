@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, dude 👋
+
+- Location :cn:
+- Working for freedom
+- Reach me by email sexiszero@gmail.com
 
 <!--
 **MatrixDai/MatrixDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
